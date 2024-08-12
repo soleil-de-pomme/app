@@ -3,7 +3,7 @@ hide:
   - navigation
 ---
 
-# Membres du bureau
+# Bureau
 
 <div class="grid cards" markdown>
 
