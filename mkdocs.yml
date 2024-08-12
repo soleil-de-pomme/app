@@ -1,4 +1,4 @@
-site_name: Bureau de la compagnie Les Œufs Bleus
+site_name: Soleil de Pomme
 theme:
   name: material
   custom_dir: overrides
@@ -25,8 +25,8 @@ extra:
   generator: false
   social:
     - icon: fontawesome/solid/paper-plane
-      link: mailto:contact@lesoeufsbleus.fr
-copyright: Site conçu par Félix Poullet-Pagès
+      link: mailto:contact@soleildepomme.asso.eu.org
+copyright: Association de loi 1901 &copy; 2024 Soleil de Pomme
 extra_css:
   - stylesheets/extra.css
 markdown_extensions: 
@@ -38,3 +38,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+plugins:
+  - search
+  - blog
