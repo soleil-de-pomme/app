@@ -1,13 +1,13 @@
 site_url: https://soleildepomme.asso.eu.org
 search: false
 locale: 'fr'
-logo_url: /assets/logo2.svg
+logo_url: /assets/logo.png
 media_folder: "docs/assets"
 public_folder: "docs/assets"
 backend:
   name: github
   branch: main
-  repo: "felix-commits/soleil-de-pomme"
+  repo: "soleil-de-pomme/app"
   base_url: https://account.soleildepomme.asso.eu.org
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
