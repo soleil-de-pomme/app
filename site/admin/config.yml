@@ -1,0 +1,7 @@
+site_url: https://soleildepomme.asso.eu.org
+search: false
+backend:
+  name: github
+  branch: main
+  repo: "felix-commits/soleil-de-pomme"
++  base_url: https://account.soleildepomme.asso.eu.org

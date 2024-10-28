@@ -30,7 +30,9 @@ extra:
   social:
     - icon: fontawesome/solid/paper-plane
       link: mailto:contact@soleildepomme.asso.eu.org
-copyright: Association de loi 1901 &copy; 2024 Soleil de Pomme
+copyright: |
+  Association de loi 1901 &copy; 2024 Soleil de Pomme
+  <a href="/admin">Administration</a>
 extra_css:
   - stylesheets/extra.css
 markdown_extensions: 
