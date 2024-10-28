@@ -1,5 +1,7 @@
 site_url: https://soleildepomme.asso.eu.org
 search: false
+media_folder: "docs/assets"
+public_folder: "docs/assets"
 backend:
   name: github
   branch: main
